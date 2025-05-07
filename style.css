@@ -7,6 +7,10 @@ body{
     background-color: black;
     
 }
+.menu {
+    display: none;
+}
+
 .line {
     display: none;
 }
